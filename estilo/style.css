@@ -63,6 +63,14 @@ section.imagem > p{
     width: 400px;
 }
 
+section#img1{
+    background-image: url('../imagem/background001.jpg');
+    background-position: right center;
+}
+
+section#img2{
+    background-image: url('../imagem/background002.jpg');
+}
 a {
     color: white;
     text-decoration: none;
